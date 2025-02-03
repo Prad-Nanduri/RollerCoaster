@@ -28,6 +28,13 @@ To run the program, open the `Project_2.exe` file.
 
 - **Mouse Rotation**: Change the orientation of the camera.
 
+## ScreenShots
+
+- ![SS1](Roll1.png)
+- ![FirstPerson Mode](Rolly2.png)
+- ![SS3](Rolly3.png)
+
+
 ## Code Structure
 ### File Locations and Key Functions
 - **Project2.hpp**
@@ -167,12 +174,6 @@ To run the program, open the `Project_2.exe` file.
         Project2.cpp
         rc_spline.cpp
 ```
-## ScreenShots
-
-- ![SS1](Roll1.png)
-- ![FirstPerson Mode](Rolly2.png)
-- ![SS3](Rolly3.png)
-
 
 
 ## Extra Credit
