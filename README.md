@@ -4,7 +4,7 @@
 Prad Nanduri
 
 ## Course
-CMPSC 458
+CMPSC 458 - Computer Graphics
 
 ## Description
 Fall 2022: Project 2 : RollerCoaster Cubic Splines - Camera
